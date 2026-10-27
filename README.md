@@ -1,1 +1,1 @@
-# practice_2
+This repository is created for practice_2
